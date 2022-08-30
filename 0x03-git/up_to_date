@@ -1,1 +1,1 @@
-command: git fetch --all
+command: git pull
